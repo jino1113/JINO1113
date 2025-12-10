@@ -5,4 +5,4 @@ I am a programmer who specializes in using Unity (2D/3D) in the areas of Cinemac
 
 I am also skilled in using Git and various version control tools, including: GitHub, GitLab, Sourcetree, and SmartGit.
 
-I am currently working on a group project called Naja Medjai, an Egyptian-themed Action RPG game with boss fights, similar to Soul-Lite game.
+I was working on a group project called Naja Medjai, an Egyptian-themed Action RPG game with boss fights, similar to a Soul-Lite game.

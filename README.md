@@ -1,5 +1,5 @@
 My name is Junlachak Juntasilp (Jino).
-I graduated with a bachelor’s degree in Digital Game, College of Art, Media, and Technology from Chiang Mai University. I am currently studying at the University of Gloucestershire in the MSc Game Development program.
+I graduated with a bachelor’s degree in Digital Game, College of Art, Media, and Technology from Chiang Mai University. I also graduated at the University of Gloucestershire in the MSc Game Development program.
 
 I am a programmer who specializes in using Unity (2D/3D) in the areas of Cinemachine, New Input System, ScriptableObjects, Dialogue System, Machine learning, and Procedural Generation. I primarily use C# for game development in Unity.
 
